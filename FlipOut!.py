@@ -2,6 +2,7 @@ import pygame
 import time
 import random
 import Classes.Brick as Brick
+#hjkfjknv
 
 from Classes.Brick import *
 from Classes.Player import *
