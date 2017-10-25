@@ -5,3 +5,4 @@ echo "Mac OSX users might need to download and install an open-source software t
 sudo apt-get install pygame
 
 
+fnwejc
